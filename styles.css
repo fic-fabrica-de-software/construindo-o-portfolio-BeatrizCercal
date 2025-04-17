@@ -27,19 +27,29 @@ body, html {
     50% { opacity: 1; }
     100% { transform: translateY(-50vh); opacity: 0; }
   }
-  .navbar-container{
+  .navbar{
     display: flex;
-    text-align: center;
     background-color: #606272;
     text-decoration: none;
-    text-align: center;
+    color: #ffffff;
   }
-
-  .navbar-container li{
+  .navbar ul {
+    list-style: none;
     display: flex;
-    text-align: center;
-    background-color: #606272;
-    text-decoration: none;
-
+    justify-content: center;
+    gap: 40px;
   }
+
+  .navbar a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    cursor: pointer;
+    color:white;
+    ;
+}
+
+ 
   
