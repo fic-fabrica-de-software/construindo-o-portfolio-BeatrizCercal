@@ -57,4 +57,7 @@ body, html {
   color: white;
   border-radius: 90px;
 }
+#card-container{
+  text-align: center;
+}
   
