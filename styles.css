@@ -28,24 +28,28 @@ body, html {
     50% { opacity: 1; }
     100% { transform: translateY(-50vh); opacity: 0; }
   }
-  .navbar{
+  #cabecalho {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 0 auto;
     background-color: #606272;
-    text-decoration: none;
-    color: #ffffff;
-    text-align: center;
-  }
-  .navbar ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    gap: 40px;
-  }
-
-  .navbar a {
-    color: rgb(248, 248, 248);
-    text-decoration: none;
 }
+
+#menu {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+#menu a {
+  color: #c8cbd1;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+
 
 .rodape{
   text-align: center;
@@ -53,8 +57,4 @@ body, html {
   color: white;
   border-radius: 90px;
 }
-.img{
-
-}
- 
   
