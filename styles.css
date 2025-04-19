@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-body {
+body{
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   line-height: 1.6;
   color: #d2d7dc;
@@ -164,25 +164,6 @@ span{
   width: auto;
 }
 
-
-
-
-
-
-.habilidades-texto{
-  background: white;
-  padding: 30px;
-  border-radius: 5px;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-  width: 40%; 
-  text-align: left;
-  text-align: center;
-}
-
-
-.contato-info {
-  text-align: center;
-}
 .rodape {
   color: white;
   text-align: center;
