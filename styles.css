@@ -91,6 +91,22 @@ section {
   text-align: left;
 }
 
+.card-container1 {
+  display: grid;
+  width: 90%;
+  max-width: 800px;
+  gap: 30px;
+}
+
+.card1 {
+  background: white;
+  padding: 30px;
+  border-radius: 9px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  width: 100%; 
+  text-align: center;
+}
+
 h2, h3 {
   text-align: left;
   color: black;
