@@ -115,25 +115,9 @@ span{
 }
 
 
-#projetos {
-  align-items: center;
-}
 
-.projetos-conteudo {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
-.projetos-texto{
-  background: white;
-  padding: 30px;
-  border-radius: 5px;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-  width: 100%; 
-  text-align: left;
-  text-align: center;
-}
+
 
 .habilidades-texto{
   background: white;
