@@ -6,7 +6,7 @@
 body {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   line-height: 1.6;
-  color: #8c9aa8;
+  color: #d2d7dc;
   font-size: 18px;
   font-weight: 600;
   background-color: #6b6775;
@@ -32,13 +32,13 @@ body {
 }
 
 #menu a {
-  color: #2C3E50;
+  color: #f0f0f0;
   text-decoration: none;
   font-weight: bolder;
 }
 
 #menu a:hover {
-  color: #ffffff;
+  color: #8981a4;
 }
 
 section {
@@ -62,10 +62,15 @@ section {
 .imagem img {
   width: 100%;
   height: auto;
+  margin: auto;
 }
 
-
-
+.imagem1 img{
+  width: 100%;
+  height: auto;
+  margin-left: 250px;
+  max-width: 50%;;
+}
 
 #sobre {
   display: flex;
@@ -78,7 +83,7 @@ section {
   grid-template-columns: repeat(2, 1fr);
   gap: 100px;
   width: 90%;
-  max-width: 900px;
+  max-width: 800px;
 }
 
 .card {
@@ -92,6 +97,17 @@ section {
 
 h2, h3 {
   text-align: left;
+  color: black;
+}
+h1{
+  text-align: center;
+  color: black;
+}
+p{
+  color: rgb(105, 102, 102);
+}
+span{
+  color: rgb(71, 36, 126);
 }
 
 
