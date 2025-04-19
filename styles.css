@@ -10,7 +10,7 @@ body {
   font-size: 18px;
   font-weight: 600;
   background-color: #6b6775;
-  max-width: 1200px;
+  max-width: 1300px;
   margin: 0 auto;
 }
 
@@ -19,10 +19,6 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-}
-
-#logo {
-  max-width: 150px;
 }
 
 #menu {
@@ -89,7 +85,7 @@ section {
 .card {
   background: white;
   padding: 30px;
-  border-radius: 5px;
+  border-radius: 9px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
   width: 100%; 
   text-align: left;
@@ -100,8 +96,9 @@ h2, h3 {
   color: black;
 }
 h1{
-  text-align: center;
+  text-align: left;
   color: black;
+  margin-left: 50px;
 }
 p{
   color: rgb(93, 90, 90);
@@ -138,6 +135,17 @@ span{
   text-align: center;
 }
 
+.habilidades-texto{
+  background: white;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  width: 40%; 
+  text-align: left;
+  text-align: center;
+}
+
+
 .contato-info {
   text-align: center;
 }
@@ -149,4 +157,9 @@ span{
 }
 .text{
   color:black;
+}
+.font{
+  background-color: rgb(182, 191, 207);
+  border-radius: 40px;
+  max-width: 2900px;
 }
