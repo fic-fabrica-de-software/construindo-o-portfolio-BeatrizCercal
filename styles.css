@@ -104,10 +104,11 @@ h1{
   color: black;
 }
 p{
-  color: rgb(105, 102, 102);
+  color: rgb(93, 90, 90);
 }
 span{
   color: rgb(71, 36, 126);
+  text-align: right;
 }
 
 
@@ -127,6 +128,16 @@ span{
   align-items: center;
 }
 
+.projetos-texto{
+  background: white;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  width: 100%; 
+  text-align: left;
+  text-align: center;
+}
+
 .contato-info {
   text-align: center;
 }
@@ -135,4 +146,7 @@ span{
   text-align: center;
   padding: 20px;
   margin-top: 40px;
+}
+.text{
+  color:black;
 }
