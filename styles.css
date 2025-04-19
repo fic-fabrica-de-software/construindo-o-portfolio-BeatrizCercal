@@ -107,6 +107,40 @@ section {
   text-align: center;
 }
 
+.card-container2 {
+  display: grid;
+  width: 90%;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 15000px;
+  gap: 30px;
+  align-items: center;
+}
+
+.card2 {
+  background: white;
+  padding: 70px;
+  border-radius: 9px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  width: 50%; 
+  text-align: center;
+}
+
+.card-container3 {
+  display: grid;
+  width: 90%;
+  max-width: 15000px;
+  gap: 30px;
+}
+
+.card3 {
+  background: white;
+  padding: 70px;
+  border-radius: 9px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  width: 50%; 
+  text-align: center;
+}
+
 h2, h3 {
   text-align: left;
   color: black;
