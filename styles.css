@@ -12,6 +12,7 @@ body{
   background-color: #6b6775;
   max-width: 1300px;
   margin: 0 auto;
+  overflow-x: hidden;
 }
 
 #cabecalho {
@@ -48,24 +49,23 @@ section {
 }
 
 .imagem {
-  max-width: 400px;
+  max-width: 560px;
   width: 100%;
   margin:40px 50px;
   padding: 10px;
+  margin-right: 232px;
   border-radius: 2px;
 }
 
 .imagem img {
-  width: 100%;
-  height: auto;
-  margin: auto;
+  width: 250%;
 }
 
 .imagem1 img{
-  width: 100%;
+  width: 140%;
   height: auto;
   margin-left: 250px;
-  max-width: 50%;;
+  max-width: 50%;
 }
 
 #sobre {
@@ -149,7 +149,8 @@ h2, h3 {
 h1{
   text-align: left;
   color: black;
-  margin-left: 50px;
+  margin-left: 5px;
+  font-size: 59px;
 }
 p{
   color: rgb(93, 90, 90);
