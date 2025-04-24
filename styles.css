@@ -180,3 +180,8 @@ span{
   border-radius: 40px;
   max-width: 2900px;
 }
+
+.fotos img{
+width: 10%;
+border-radius: 90%;
+}
