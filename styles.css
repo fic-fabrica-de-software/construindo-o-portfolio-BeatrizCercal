@@ -9,7 +9,7 @@ body{
   color: #d2d7dc;
   font-size: 18px;
   font-weight: 600;
-  background-color: #6b6775;
+  background-color: rgba(110,124,142,255);
   max-width: 1300px;
   margin: 0 auto;
   overflow-x: hidden;
@@ -35,7 +35,7 @@ body{
 }
 
 #menu a:hover {
-  color: #8981a4;
+  color: rgba(110,124,142,255);
 }
 
 section {
@@ -83,7 +83,7 @@ section {
 }
 
 .card {
-  background: white;
+  background: rgba(255,255,255,255);
   padding: 30px;
   border-radius: 9px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
@@ -99,7 +99,7 @@ section {
 }
 
 .card1 {
-  background: white;
+  background: rgba(255,255,255,255);
   padding: 30px;
   border-radius: 9px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
@@ -117,7 +117,7 @@ section {
 }
 
 .card2 {
-  background: white;
+  background: rgba(255,255,255,255);
   padding: 70px;
   border-radius: 9px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
@@ -176,7 +176,7 @@ span{
   color:black;
 }
 .font{
-  background-color: rgb(182, 191, 207);
+  background-color: rgba(230,230,230,255);
   border-radius: 40px;
   max-width: 2900px;
 }
@@ -184,4 +184,15 @@ span{
 .fotos img{
 width: 10%;
 border-radius: 90%;
+}
+
+.projetos-1 {
+  position: relative;
+  bottom: 350px;
+  margin-left: 110%;
+  width: 150px;
+}
+
+.projetos-1 img{
+  width: 200%;
 }
