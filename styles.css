@@ -61,13 +61,6 @@ section {
   width: 250%;
 }
 
-.imagem1 img{
-  width: 140%;
-  height: auto;
-  margin-left: 250px;
-  max-width: 50%;
-}
-
 #sobre {
   display: flex;
   justify-content: center;
