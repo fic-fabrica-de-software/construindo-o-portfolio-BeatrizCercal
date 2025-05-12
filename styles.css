@@ -192,6 +192,8 @@ border-radius: 90%;
   bottom: 350px;
   margin-left: 110%;
   width: 150px;
+  justify-content: center;
+  text-align: center;
 }
 
 .projetos-1 img{
