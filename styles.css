@@ -239,6 +239,15 @@ align-items: center;
 margin-left: 50px;
 }
 
+button{
+  border-radius: 15px;
+  width: 30%;
+  color: rgb(71, 36, 126); 
+  background-color: #d2d7dc;
+}
 
-
+.mb-3{
+  color: rgb(71, 36, 126);
+  align-items:flex-start;
+}
 
