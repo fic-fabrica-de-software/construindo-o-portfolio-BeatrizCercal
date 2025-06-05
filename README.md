@@ -10,15 +10,13 @@
 
 > Este Portfólio Pessoal foi desenvolvido durante o Curso de Qualificação nomeado Fábrica de Software.
 
-### Ajustes e melhorias
+### Ajustes
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+Meu projeto ainda está em desenvolvimento, e deve ser aprimorado durante a realização do Curso de Qualificação. O mesmo já atende a algumas tarefas específicas:
+- [x] Adequação a linguagem escolhida;
+- [x] Utilização de funcionalidades específicas;
+- [x] Inserção de dados pessoais;
+- [ ] Projetos Pessoais.
 
 ## 💻 Pré-requisitos
 
