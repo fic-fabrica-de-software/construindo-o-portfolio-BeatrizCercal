@@ -238,6 +238,13 @@ border-radius: 90%;
 align-items: center;
 margin-left: 50px;
 }
+.fotos10 img{
+width: 6%;
+border-radius: 90%;
+align-items: center;
+margin-left: 50px;
+}
+
 
 button{
   border-radius: 15px;
