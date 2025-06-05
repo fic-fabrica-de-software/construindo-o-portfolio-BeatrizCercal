@@ -233,11 +233,11 @@ border-radius: 90%;
 }
 
 .fotos1 img{
-width: 50%;
+width: 20%;
 border-radius: 90%;
+align-items: center;
+margin-left: 50px;
 }
-
-
 
 
 
