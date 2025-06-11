@@ -251,6 +251,10 @@ border-radius: 50%;
 align-items: center;
 }
 
+.fotos11{
+  align-items: center;
+  border-left: -120px;
+}
 .fotos11 img{
   width: 80px;
   height: 80px;
