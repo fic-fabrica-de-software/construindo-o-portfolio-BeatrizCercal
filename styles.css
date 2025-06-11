@@ -256,11 +256,13 @@ align-items: center;
   height: 80px;
   border-radius: 10%;
   align-items: center;
+  margin: 0 15px;
+
   }
 
 
 button{
-  border-radius: 15px;
+  border-radius: 13px;
   width: 30%;
   color: rgb(71, 36, 126); 
   background-color: #d2d7dc;
@@ -278,11 +280,15 @@ button{
 
 .btn-primary {
   color: #fff; 
-  background-color: #0066cc; 
+  background-color: rgb(71, 36, 126);
   border: none;
 }
 
 .btn-primary:hover {
-  background-color: #004c99; 
+  background-color: rgb(71, 36, 126); 
+}
+
+.form-control{
+  border-radius: 15px;
 }
 
