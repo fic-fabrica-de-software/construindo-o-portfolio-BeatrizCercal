@@ -251,6 +251,13 @@ border-radius: 50%;
 align-items: center;
 }
 
+.fotos11 img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  align-items: center;
+  }
+
 
 button{
   border-radius: 15px;
@@ -264,4 +271,18 @@ button{
   align-items:flex-start;
 }
 
+.form-group label {
+  color:rgb(71, 36, 126);
+  font-weight: bold;
+}
+
+.btn-primary {
+  color: #fff; 
+  background-color: #0066cc; 
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #004c99; 
+}
 
