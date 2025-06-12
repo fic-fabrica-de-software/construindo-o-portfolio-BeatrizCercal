@@ -262,17 +262,17 @@ button{
 }
 
 .btn-primary {
-  color: #fff; 
-  background-color: rgb(71, 36, 126);
+  color: #070707; 
   border: none;
-}
-
-.btn-primary:hover {
-  background-color: rgb(71, 36, 126); 
 }
 
 
 
 input{
   border: none;
+}
+
+.btn-primary{
+color: rgb(71, 36, 126);
+text-decoration: none;
 }
