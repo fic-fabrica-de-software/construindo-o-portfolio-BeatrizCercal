@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Portfólio Pessoal">
+<img src="/assests/img/foto1.png"  alt="Portfólio Pessoal">
 
 > Este Portfólio Pessoal foi desenvolvido durante o Curso de Qualificação nomeado Fábrica de Software.
 
