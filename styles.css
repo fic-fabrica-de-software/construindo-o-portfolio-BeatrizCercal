@@ -276,3 +276,7 @@ input{
 color: rgb(71, 36, 126);
 text-decoration: none;
 }
+
+.fotos12 img {
+  border-left: 90px;
+}
