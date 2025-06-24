@@ -29,7 +29,7 @@
     padding: 0;
     height: 100%;
     overflow: hidden;
-    background-color: #121212;
+    background-color:rgba(110,124,142,255);
   }
   
   #network-container {
