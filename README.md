@@ -24,7 +24,7 @@ Meu projeto ainda está em desenvolvimento, e deve ser aprimorado durante a real
 
 O Projeto foi desenvolvido inteiramente pela estudante Beatriz Cercal Cachoeira, que através de
 aprofundamentos teóricos e práticos desenvolveu as necessárias competências para atender as demandas
-necessárias:
+requisitadas :
 
 <table>
   <tr>
